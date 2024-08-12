@@ -1,5 +1,5 @@
 package com.example.hello.controller;
 
-@Controller
+@RestController
 public class Test1Controller {
 }
